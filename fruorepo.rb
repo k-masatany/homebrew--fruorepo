@@ -2,8 +2,8 @@
 class Fruorepo < Formula
   desc "We enjoy repository."
   homepage "https://github.com/k-masatany/fruorepo"
-  url "https://github.com/k-masatany/fruorepo/releases/download/v0.2.0/darwin_386_0.2.0.zip"
-  sha256 "cb66843a5648aa37adc006dffd9e07c82a1c8ca2d2110326a748b8a86b069eda"
+  url "https://github.com/k-masatany/fruorepo/releases/download/v0.2.1/darwin_386_0.2.1.zip"
+  sha256 "9466dbd71d2bf7024319bfe87e5bc2a8d9b7fb5ae6fbdc7f04e519a95e1e94fe"
   head 'https://github.com/k-masatany/fruorepo.git', :branch => 'master'
 
   def install
